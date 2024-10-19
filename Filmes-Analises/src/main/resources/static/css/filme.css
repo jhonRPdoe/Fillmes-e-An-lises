@@ -1,0 +1,18 @@
+.btn {
+    margin-top: 1%;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+#formModal {
+    width: 100%;
+}
+
+.darkMode {
+    background-color: rgb(43, 43, 43);
+}

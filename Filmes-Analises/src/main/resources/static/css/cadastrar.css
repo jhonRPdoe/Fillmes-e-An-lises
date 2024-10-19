@@ -1,0 +1,24 @@
+form {
+    margin-top: 5%;
+}
+
+
+
+button {
+    min-width: 25%;
+}
+
+#divDoador, #divSangue {
+    background-image: linear-gradient(to bottom right, #FD8451, #FFBD6F);
+    padding: 5%;
+    margin-bottom: 2%;
+    border-radius: 15px;
+    border: solid black 1px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+#footer {
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.05);
+}
