@@ -21,25 +21,25 @@ A primeira tela consiste em uma consulta de filmes onde é possível cadastrar n
 ![](./screenshots/readme-images/ConsultaFilme.PNG)
 
 ### Cadastro de filme
-![](./screenshots/readme-images/CadastroFilme.png)
+![](./screenshots/readme-images/CadastroFilme.PNG)
 
 ### Alteração de filme
-![](./screenshots/readme-images/AlteraFilme.png)
+![](./screenshots/readme-images/AlteraFilme.PNG)
 
 ### Exclusão de filme
-![](./screenshots/readme-images/ExcluiFilme.png)
+![](./screenshots/readme-images/ExcluiFilme.PNG)
 
 ### Consulta de análises
-![](./screenshots/readme-images/ConsultaAnalise.png)
+![](./screenshots/readme-images/ConsultaAnalise.PNG)
 
 ### Cadastro de análise
-![](./screenshots/readme-images/CadastroAnalise.png)
+![](./screenshots/readme-images/CadastroAnalise.PNG)
 
 ### Alteração de análise
-![](./screenshots/readme-images/AlteraAnalise.png)
+![](./screenshots/readme-images/AlteraAnalise.PNG)
 
 ### Exclusão de análise
-![](./screenshots/readme-images/ExcluiAnalise.png)
+![](./screenshots/readme-images/ExcluiAnalise.PNG)
 
 
 ## Meu processo
