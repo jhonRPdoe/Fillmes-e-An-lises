@@ -18,7 +18,7 @@ A primeira tela consiste em uma consulta de filmes onde é possível cadastrar n
 ## Screenshots
 
 ### Consulta de filmes
-![](./screenshots/readme-images/ConsultaFilme.png)
+![](./screenshots/readme-images/ConsultaFilme.PNG)
 
 ### Cadastro de filme
 ![](./screenshots/readme-images/CadastroFilme.png)
